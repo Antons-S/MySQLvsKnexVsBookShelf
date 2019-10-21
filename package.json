@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bookshelf": "^0.14.2",
-    "knex": "^0.16.5",
+    "knex": "^0.19.5",
     "moment": "^2.24.0",
     "mysql": "^2.17.1"
   }
